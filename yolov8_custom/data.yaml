@@ -1,0 +1,13 @@
+train: 3d_shapes/train/images
+val: 3d_shapes/valid/images
+test: 3d_shapes/test/images
+
+nc: 3
+names: ['cone', 'cube', 'sphere']
+
+roboflow:
+  workspace: 3dshapes
+  project: 3d_shapes
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/3dshapes/3d_shapes/dataset/2
