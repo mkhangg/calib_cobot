@@ -77,7 +77,14 @@ You can find it here [Dataset](https://github.com/anonymous20210107/calib_cobot/
 ## Citing
 
 ```
-
+@inproceedings{dang2023multiplanar,
+  title={Multiplanar Self-Calibration for Mobile Cobot 3D Object Manipulation using 2D Detectors and Depth Estimation},
+  author={Dang, Tuan and Nguyen, Khang and Huber, Manfred},
+  booktitle={2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={1782--1788},
+  year={2023},
+  organization={IEEE}
+}
 ```
 
 
